@@ -19,19 +19,19 @@ export const portfolioData = {
       title: "Conserve",
       role: "Fullstack Developer",
       desc: "A full-stack web application for user management, including profile management and role-based access control.",
-      tech: ["Angular", "Django", "GraphQL", "Tailwind"]
+      tech: ["Angular", "Django", "GraphQL", "Tailwind", "Python"]
     },
     {
       title: "Restaurant Management System",
       role: "Developer",
       desc: "A complete system for managing restaurant operations, hosted locally using XAMPP.",
-      tech: ["PHP", "MySQL", "Apache"]
+      tech: ["PHP", "MySQL", "Apache", "Bootstrap"]
     },
     {
       title: "Online Ecommerce Platform",
       role: "HND Course Project",
       desc: "An online dress ordering system enabling seamless selection and ordering for users.",
-      tech: ["Web Technologies", "Database"]
+      tech: ["React", "MongoDB", "NodeJS", "Express", "Tailwind"]
     }
   ]
 };
