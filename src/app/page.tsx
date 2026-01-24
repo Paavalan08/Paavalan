@@ -147,7 +147,7 @@ export default function Home() {
         </div>
 
         {/* Social Proof */}
-        <div className="mt-16 pt-8 border-t border-slate-100 flex items-center gap-6">
+        <div className="mt-10 pt-4 border-t border-slate-100 flex items-center gap-6">
            <span className="text-sm font-semibold text-slate-400">CONNECT</span>
            <div className="flex gap-4">
              <a href={personal.social.github} target="_blank" className="text-slate-400 hover:text-slate-900 transition-colors">
