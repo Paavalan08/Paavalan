@@ -98,7 +98,7 @@ export default function Home() {
       
       {/* (Removed the old manual div lines here) */}
 
-      <div className="relative max-w-5xl mx-auto px-6 pt-24 pb-20 md:pt-32 z-10">
+      <div className="relative max-w-5xl mx-auto px-6 pt-24 pb-20 md:pt-10 z-10">
         
         {/* Status Line */}
         <div className="flex items-center gap-2 mb-8 animate-fade-in">
